@@ -1,0 +1,6 @@
+AVG 10: 80
+AVG 20: 332
+COUNT 10: 2
+COUNT 20: 10
+VAR 20: 314296
+OUTLIER 20 2 1: 1 cells are removed.
